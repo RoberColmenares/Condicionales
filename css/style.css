@@ -1,0 +1,64 @@
+.contains-card {
+    display: flex;
+    justify-content: center;
+    gap:2rem;
+
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+  
+
+}
+
+.card img{
+    margin-bottom: 10px;
+    width: 200px;
+  
+
+}
+
+.contains{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#resultado {
+    color: black;
+}
+
+.Siguiente {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.siguente2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+}
+
+
+.conteneroRuedas{
+    text-align: center;
+}
+.conteneroRuedas select{
+
+    margin: 10px;
+}
